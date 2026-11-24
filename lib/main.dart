@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
                           child: Column(
                             children: const [
                               Text(
-                                '0',
+                                '3',
                                 style: TextStyle(
                                   fontSize: 16,
                                   fontWeight: FontWeight.bold,
