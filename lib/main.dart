@@ -145,7 +145,7 @@ class HomePage extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      'นักศึกษาแผนกเทคโนโลยีสารสนเทศ',
+                      'นักศึกษาแผนกเทคโนโลยีสารสนเทศ ',
                       style: TextStyle(fontSize: 13),
                     ),
                     Text(
