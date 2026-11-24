@@ -65,7 +65,7 @@ class HomePage extends StatelessWidget {
                     child: CircleAvatar(
                       radius: 32,
                       backgroundImage:
-                      const AssetImage('assets/imgag.png'),
+                      const AssetImage('assets/paeeiei.jpg'),
                     ),
                   ),
                   Expanded(
@@ -145,11 +145,11 @@ class HomePage extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      'นักศึกษาแผนกเทคโนโลยีสารสนเทศ',
+                      'เป็นคนไม่ชอบฝัน เพราะฉันไม่ชอบนอน',
                       style: TextStyle(fontSize: 13),
                     ),
                     Text(
-                      'หลงใหลในการเขียน Flutter 💙',
+                      'กรุงเทพมันกว้าง ผมจะหาเธอเจอยังไง',
                       style: TextStyle(fontSize: 13),
                     ),
                   ],
